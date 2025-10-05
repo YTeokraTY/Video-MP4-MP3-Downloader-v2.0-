@@ -1,13 +1,15 @@
 # Video MP4/MP3 Downloader (v2.0) – EXE Version
 
 ## Description
-Video MP4/MP3 Downloader allows you to easily download video and audio files from popular platforms such as YouTube, TikTok, Instagram, Twitter/X, Facebook, and Reddit. This version is packaged as a Windows EXE; no Python or additional installation is required.
+This is the Windows EXE version of Video MP4/MP3 Downloader. You can get the EXE file directly from Google Drive. No Python or additional installation is required.
+
+**Note:** FFmpeg is included and will be set up automatically on first use if not found.
 
 ## Features
 - Supports YouTube, TikTok, Instagram, Twitter/X, Facebook, Reddit, and SoundCloud
 - Download videos in MP4 or audio in MP3
 - Display video thumbnail and info (title, platform, duration)
-- FFmpeg included and works automatically
+- FFmpeg included and installs automatically if missing
 - Clipboard link detection
 - Fullscreen mode (F11) and exit (Esc)
 - User-friendly graphical interface (GUI)
@@ -15,11 +17,11 @@ Video MP4/MP3 Downloader allows you to easily download video and audio files fro
 ## System Requirements
 - Windows 10 or higher
 - 64-bit recommended
-- Internet connection (required for video and FFmpeg downloads)
-- Disk space: Depends on the size of videos you download
+- Internet connection (required for media access and FFmpeg setup)
+- Disk space: Depends on the size of media files
 
-## Installation & Usage
-1. Download or extract the `VideoDownloader.exe` file.
+## How to Use
+1. Download Video MP4/MP3 Downloader (v2.0) Google Drive: [Download EXE](https://drive.google.com/file/d/1Nb9QXXUUjGLcxCpU32wJ5duS9UJ9Kh1c/view?usp=sharing)
 2. Double-click to run the program.
 3. Paste the video/audio link into the URL box or let the program detect it automatically from the clipboard.
 4. Select the destination folder in the "Save to" field.
@@ -28,13 +30,9 @@ Video MP4/MP3 Downloader allows you to easily download video and audio files fro
    - **Download MP4** → Downloads the video as MP4
    - **Download MP3** → Downloads the audio as MP3
 
-## Download
-You can download the EXE version here:  
-[Download Video-MP4-MP3-Downloader-v2.0 (Google Drive)](https://drive.google.com/file/d/1Nb9QXXUUjGLcxCpU32wJ5duS9UJ9Kh1c/view?usp=sharing)
-
 ## Tips
 - The program automatically detects links copied to the clipboard.
-- FFmpeg will be downloaded automatically on first use; download time depends on your internet speed.
+- FFmpeg will be installed automatically on first run if missing; this may take a few minutes depending on your internet speed.
 - Press F11 for fullscreen mode, Esc to exit.
 
 ## FAQ
@@ -46,9 +44,9 @@ You can download the EXE version here:
 
 ## Developer
 - Name: YTeokraTY (YorgunTeokrat)  
-- Discord: [YTeokraTY Discord](https://discord.gg/yorgun_teokrat)  
-- Discord Server: [Server Invite](https://discord.gg/nzyZzfb65F)  
-- GitHub: [YTeokraTY](https://github.com/YTeokraTY)
+- Discord: https://discord.gg/yorgun_teokrat  
+- Discord Server: https://discord.gg/nzyZzfb65F  
+- GitHub: https://github.com/YTeokraTY
 
 ## License
 This software is free for personal use. Contact the developer for commercial use.
