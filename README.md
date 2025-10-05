@@ -30,7 +30,7 @@ Video MP4/MP3 Downloader allows you to easily download video and audio files fro
 
 ## Download
 You can download the EXE version here:  
-[Download VideoDownloader.exe (Google Drive)](https://drive.google.com/file/d/1Nb9QXXUUjGLcxCpU32wJ5duS9UJ9Kh1c/view?usp=sharing)
+[Download Video-MP4-MP3-Downloader-v2.0 (Google Drive)](https://drive.google.com/file/d/1Nb9QXXUUjGLcxCpU32wJ5duS9UJ9Kh1c/view?usp=sharing)
 
 ## Tips
 - The program automatically detects links copied to the clipboard.
